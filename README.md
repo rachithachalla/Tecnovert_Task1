@@ -1,9 +1,11 @@
 # Tecnovert_Task1
 
-Application Name:  
+Application Name:
+
       Prime Video
 
-Use case(s):  
+Use case(s): 
+
       1.	Displaying Number of views and setting Remainders for a movie or web series.
 
 Scenario(s):
@@ -13,7 +15,6 @@ Scenario(s):
 Bare Minimum Inputs: 
 
       1.	Select a movie or web series.
-      
       
       2.	Click on the views button.
       
